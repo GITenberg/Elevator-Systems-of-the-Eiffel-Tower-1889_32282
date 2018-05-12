@@ -1,0 +1,27 @@
+_repo: Elevator-Systems-of-the-Eiffel-Tower-1889_32282
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32282-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Vogel, Robert M.
+    gutenberg_agent_id: '35769'
+    url: http://www.gutenberg.org/2009/agents/35769
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2010-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32282'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Elevators -- History'
+- !lcc 'T'
+- !lcc 'Q'
+- !lcsh 'Tour Eiffel (Paris, France)'
+title: Elevator Systems of the Eiffel Tower, 1889
+url: http://www.gutenberg.org/ebooks/32282
